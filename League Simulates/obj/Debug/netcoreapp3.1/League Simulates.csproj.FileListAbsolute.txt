@@ -1,0 +1,13 @@
+C:\Users\James Esil Holder\source\repos\League Simulates\bin\Debug\netcoreapp3.1\League Simulates.exe
+C:\Users\James Esil Holder\source\repos\League Simulates\bin\Debug\netcoreapp3.1\League Simulates.deps.json
+C:\Users\James Esil Holder\source\repos\League Simulates\bin\Debug\netcoreapp3.1\League Simulates.runtimeconfig.json
+C:\Users\James Esil Holder\source\repos\League Simulates\bin\Debug\netcoreapp3.1\League Simulates.runtimeconfig.dev.json
+C:\Users\James Esil Holder\source\repos\League Simulates\bin\Debug\netcoreapp3.1\League Simulates.dll
+C:\Users\James Esil Holder\source\repos\League Simulates\bin\Debug\netcoreapp3.1\League Simulates.pdb
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.csproj.AssemblyReference.cache
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.AssemblyInfoInputs.cache
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.AssemblyInfo.cs
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.csproj.CoreCompileInputs.cache
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.dll
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.pdb
+C:\Users\James Esil Holder\source\repos\League Simulates\obj\Debug\netcoreapp3.1\League Simulates.genruntimeconfig.cache
